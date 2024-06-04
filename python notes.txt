@@ -1,0 +1,29 @@
+*python indentation (no braces)
+*variable declaration and initialization 
+*intro 
+*conditional statement
+*features of python 
+*why python is preferred
+*syntax
+*datatypes
+*True False and None 
+*can or cannot be used parenthesis
+*interactive mode and scripting mode
+*single python file is said as module
+*.ipynb used for saving notebook
+ .py used for saving single module
+
+arithmetic 
+assignment
+bitwise 
+logical- | is said to pipe
+comparison- performed based on values 
+*identity(&comparison is same bt 1 difference) - it checks address of 2 operands and returns output in boolean
+is - true if the operands are identical(refer to same object) 
+is not - true if the operands are not identical(do not refer to same object)
+
+*special operators(is called membership operators)- used to check whether a value or variable exists in the sequence like string, list, tuples, sets, dictionary or not
+in 
+not in 
+
+
